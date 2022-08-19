@@ -12,6 +12,6 @@ Surf business owner wants to know information about temperature trends before op
 - Determine the Summary Statistics for December.
 
 ### Analysis of Outcomes Based on June.
-- ![alt text](http://https://github.com/HusamQ/Module-9-Challenge/tree/main/Images/Juen-temp.png) 
+(http://https://github.com/HusamQ/Module-9-Challenge/Images/June-temp.png) 
 
 
