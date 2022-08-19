@@ -11,7 +11,15 @@ Surf business owner wants to know information about temperature trends before op
 - Determine the Summary Statistics for June.
 - Determine the Summary Statistics for December.
 
+
 ### Analysis of Outcomes Based on June.
+- The tempreture stats for June:
 ![alt text](https://github.com/HusamQ/Module-9-Challenge/blob/main/Images/June-temp.png) 
+
+- The tempreture stats for December:
+![alt text](https://github.com/HusamQ/Module-9-Challenge/blob/main/Images/Dec-temp.png)
+
+### Analysis of Outcomes Based on June and December: 
+- We notice that there not much different in tempreture between June and December. Though, tempreture in december lower than summer time in few digits. Perhaps, in my oponio key factor for this type of business would be rain. Are people willing to surf while it's raining in December? or for the whole winter season for that matter. I'd suggest to W.Avy to include more weather data for any potential expansion of business. 
 
 
